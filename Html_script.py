@@ -2,7 +2,6 @@
 """
 Created on Mon Dec  2 21:34:41 2019
 
-@author: krish.naik
 """
 import os
 import time
